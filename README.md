@@ -15,3 +15,4 @@ This application is being developed based on the course [Modern React with Redux
 * [React.js](https://github.com/facebook/react) + [Redux](https://github.com/reactjs/redux)
 * [React Router](https://github.com/ReactTraining/react-router)
 * ES2015
+* [axios](https://github.com/axios/axios)
